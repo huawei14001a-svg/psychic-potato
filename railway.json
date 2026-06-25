@@ -1,3 +1,3 @@
-#!/bin/bash
+!/bin/bash
 # Railway Railpack fallback start script
 exec node index.js
